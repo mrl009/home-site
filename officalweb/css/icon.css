@@ -1,0 +1,50 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot?olxwf4');
+  src:  url('../fonts/icomoon.eot?olxwf4#iefix') format('embedded-opentype'),
+  url('../fonts/icomoon.ttf?olxwf4') format('truetype'),
+  url('../fonts/icomoon.woff?olxwf4') format('woff'),
+  url('../fonts/icomoon.svg?olxwf4#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="tp-"], [class*=" tp-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.tp-safe:before {
+  content: "\e900";
+}
+.tp-change:before {
+  content: "\e901";
+}
+.tp-buy:before {
+  content: "\e902";
+}
+.tp-product:before {
+  content: "\e903";
+}
+.tp-dial:before {
+  content: "\e904";
+}
+.tp-fans:before {
+  content: "\e905";
+}
+.tp-rightarrow:before {
+  content: "\ea3c";
+}
+.tp-leftarrow:before {
+  content: "\ea40";
+}

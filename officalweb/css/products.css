@@ -1,0 +1,529 @@
+
+/******** products style ************/
+.products h2{
+    font-size: 20px;
+    margin: 10px 0 0;
+}
+.products p{
+    display: block;
+    color: #7e7e7e;
+    word-wrap: break-word;
+    line-height: 20px;
+}
+.products .wrapper{
+    padding: 0 10px 50px;
+}
+.products .wrapper .primary{
+    position: relative;
+    margin: 55px 10px 0 38px;
+    padding-bottom: 80px;
+    border-bottom: 1px solid #ccc;
+}
+.products .wrapper .primary sup{
+    position: absolute;
+    top: 0;
+    left: -48px;
+    display: block;
+    height: 70px;
+    width: 5px;
+    display:none;
+}
+.products .wrapper .row > [class*="span"]{
+    margin-left: 0;
+}
+.products .wrapper .row .span16{
+    margin-left: 0;
+    width: 920px;
+}
+.products .wrapper .row .span10{
+    float: left;
+}
+.products .wrapper .primary a.more{
+    display: block;
+    margin: 10px 0 0 40px;
+}
+.products .wrapper .row ul{
+    overflow: hidden;
+    margin: 0;
+    padding-top: 10px;
+    width: 100%;
+}
+.products .wrapper .row ul li{
+    display: block;
+    padding-top: 30px;
+    float: left;
+    width: 50%;
+}
+.products .wrapper .row ul.min{
+    width: 340px;
+}
+.products .wrapper .row ul.min li{
+
+}
+.products .wrapper .row ul.inline li{
+    width: 100%;
+}
+.products .wrapper .row ul li.clearfix:after{
+    clear: both;
+}
+.products .wrapper .row ul li a.block{
+    position: relative;
+    display: block;
+    padding-left: 40px;
+    padding-top: 10px;
+}
+.products .row ul li a.block .icon{
+    position: absolute;
+    left: 0;
+    top: 2px;
+    height: 34px;
+    width: 29px;
+    text-align: center;
+    line-height: 35px;
+}
+.products .row ul li a.block .icon i{
+    display: inline-block;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background-image: url(../images/icon_new.png);
+    background-repeat: no-repeat;
+    -webkit-transition: all 0.2s linear;
+    -moz-transition: all 0.2s linear;
+    -o-transition: all 0.2s linear;
+    -ms-transition: all 0.2s linear;
+    transition: all 0.2s linear;
+}
+.products .row ul li a.block h3{
+    display: block;
+    color: #555;
+    font-size: 15px;
+    margin: 0 0 10px;
+    -webkit-transition: all 0.2s linear;
+    -moz-transition: all 0.2s linear;
+    -o-transition: all 0.2s linear;
+    -ms-transition: all 0.2s linear;
+    transition: all 0.2s linear;
+}
+.products .row ul li a.block .icon .up{
+    opacity: 0;
+}
+.products .row ul li a.block .icon .down{
+    opacity: 1;
+}
+.products .row ul li a.block:hover .icon .up{
+    opacity: 1;
+}
+.products .row ul li a.block:hover .icon .down{
+    opacity: 0;
+}
+
+/**icon 1**/
+.products .row ul li a.block .icon1 .up{
+    background-position: 0 0;
+}
+.products .row ul li a.block .icon1 .down{
+    background-position: 0 -41px;
+}
+
+/**icon 2**/
+.products .row ul li a.block .icon2 .up{
+    background-position: 0 -80px;
+}
+.products .row ul li a.block .icon2 .down{
+    background-position: 0 -120px;
+}
+
+/**icon 3**/
+.products .row ul li a.block .icon3 .up{
+    background-position: 0 -161px;
+}
+.products .row ul li a.block .icon3 .down{
+    background-position: 0 -202px;
+}
+
+/**icon 4**/
+.products .row ul li a.block .icon4 .up{
+    background-position: 0 -243px;
+}
+.products .row ul li a.block .icon4 .down{
+    background-position: 0 -284px;
+}
+
+/**icon 5**/
+.products .row ul li a.block .icon5 .up{
+    background-position: 0 -324px;
+}
+.products .row ul li a.block .icon5 .down{
+    background-position: 0 -365px;
+}
+
+/**icon 6**/
+.products .row ul li a.block .icon6 .up{
+    background-position: -70px -6px;
+}
+.products .row ul li a.block .icon6 .down{
+    background-position: -70px -46px;
+}
+
+/**icon 7**/
+.products .row ul li a.block .icon7 .up{
+    background-position: -70px -86px;
+}
+.products .row ul li a.block .icon7 .down{
+    background-position: -70px -126px;
+}
+
+/**icon 8**/
+.products .row ul li a.block .icon8 .up{
+    background-position: -70px -168px;
+}
+.products .row ul li a.block .icon8 .down{
+    background-position: -70px -209px;
+}
+
+/**icon 9**/
+.products .row ul li a.block .icon9 .up{
+    background-position: -70px -251px;
+}
+.products .row ul li a.block .icon9 .down{
+    background-position: -70px -291px;
+}
+
+/**icon 10**/
+.products .row ul li a.block .icon10 .up{
+    background-position: -70px -330px;
+}
+.products .row ul li a.block .icon10 .down{
+    background-position: -70px -371px;
+}
+
+/**icon 11**/
+.products .row ul li a.block .icon11 .up{
+    background-position: -139px -7px;
+}
+.products .row ul li a.block .icon11 .down{
+    background-position: -139px -48px;
+}
+
+/**icon 12**/
+.products .row ul li a.block .icon12 .up{
+    background-position: -139px -87px;
+}
+.products .row ul li a.block .icon12 .down{
+    background-position: -139px -128px;
+}
+
+/**icon 13**/
+.products .row ul li a.block .icon13 i{
+    background-image:url(../images/APITB.png);
+}
+.products .row ul li a.block .icon13 .up{
+    background-position: 0px 0px;
+}
+.products .row ul li a.block .icon13 .down{
+    background-position: 0px -47px;
+}
+
+/**icon 14**/
+.products .row ul li a.block .icon14 .up{
+    background-position: -139px -277px;
+}
+.products .row ul li a.block .icon14 .down{
+    background-position: -139px -317px;
+}
+
+/**icon 15**/
+.products .row ul li a.block .icon15 .up{
+    background-position: -139px -358px;
+}
+.products .row ul li a.block .icon15 .down{
+    background-position: -139px -399px;
+}
+
+/**icon 16**/
+.products .row ul li a.block .icon16 .up{
+    background-position: -205px -7px;
+}
+.products .row ul li a.block .icon16 .down{
+    background-position: -205px -47px;
+}
+
+/**icon 17**/
+.products .row ul li a.block .icon17 .up{
+    background-position: -205px -84px;
+}
+.products .row ul li a.block .icon17 .down{
+    background-position: -205px -122px;
+}
+
+/**icon 18**/
+.products .row ul li a.block .icon18 .up{
+    background-position: -205px -169px;
+}
+.products .row ul li a.block .icon18 .down{
+    background-position: -205px -210px;
+}
+
+/**icon 19**/
+.products .row ul li a.block .icon19 .up{
+    background-position: -205px -235px;
+}
+.products .row ul li a.block .icon19 .down{
+    background-position: -205px -275px;
+}
+
+/**icon 20**/
+.products .row ul li a.block .icon20 .up{
+    background-position: -205px -318px;
+}
+.products .row ul li a.block .icon20 .down{
+    background-position: -205px -353px;
+}
+
+/**icon 21**/
+.products .row ul li a.block .icon21 .up{
+    background-position: -205px -389px;
+}
+.products .row ul li a.block .icon21 .down{
+    background-position: -205px -425px;
+}
+
+
+
+.products .row ul li a.block:hover h3{
+    color: #FF6760;
+}
+.products .row ul li a.block p{
+    float: none;
+    padding-right: 10px;
+}
+.products .row ul li a.block p.letter{
+    letter-spacing: -0.5px;
+}
+.products .row .products-pic{
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+}
+.products .row .products-pic img{
+    display: inline-block;
+    vertical-align: middle;
+}
+.products .row .products-pic1{
+    float: left;
+    margin-left: -165px;
+    width: 500px;
+    height: 410px;
+    line-height: 400px;
+}
+.products .row .products-pic2{
+    margin-top: 10px;
+    height: 330px;
+    width: 890px;
+    line-height: 330px;
+}
+.products .row .products-pic3{
+    float: left;
+    margin-top: 80px;
+    margin-left: -47px;
+    width: 565px;
+    height: 300px;
+    line-height: 300px;
+}
+.products .row .products-pic4{
+    float: left;
+    margin-top: 40px;
+    margin-left: -162px;
+    width: 560px;
+    height: 400px;
+    line-height: 400px;
+}
+.products .inner .cartoon-box{
+    position: relative;
+    overflow: visible;
+    margin: 50px 20px 0;
+    z-index: 0;
+}
+.products .inner .cartoon-box:before{
+    position: absolute;
+    display: block;
+    content: "";
+    bottom: 0;
+    left: 2%;
+    width: 96%;
+    height: 10px;
+    border-radius: 20%;
+    box-shadow: 0 2px 4px #aaa;
+    z-index: -1;
+}
+.products .inner .pic-box{
+    position: relative;
+    text-align: center;
+    height: 280px;
+    line-height: 280px;
+    background-color: #fff;
+    border: 1px solid #d0d0d0;
+}
+.products .inner .pic-box img{
+    display: inline-block;
+    vertical-align: middle;
+}
+.products .inner .primary{
+    margin: 55px 20px 0;
+    border: 0;
+}
+
+.products .inner .row ul{
+    padding: 0;
+    border-top: 1px solid #e6e6e6;
+    border-bottom: 1px solid #e6e6e6;
+}
+.products .inner .row ul li{
+    width: 100%;
+    min-height: 0;
+    padding: 0;
+}
+.products .inner .row ul li a.block{
+    padding: 0px;
+    height: 100%;
+}
+.products .inner li dl{
+    border-bottom: 1px solid #e6e6e6;
+}
+.products .inner li:last-child dl{
+    border: 0;
+}
+.products .inner .row ul li:not(:last-child) dl:after{
+    content: "";
+    display: block;
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    bottom: -15px;
+    left: 215px;
+    background-color: white;
+    z-index: 2;
+}
+.products .inner li dt{
+    position: relative;
+    float: left;
+    width: 190px;
+    height: 100%;
+    padding: 25px 0 25px 40px;
+    border-right: 1px solid #e6e6e6;
+}
+.products .inner ul li a.block .icon{
+    top: 17px;
+}
+.products .inner ul li a.block h3{
+    margin: 0;
+    font-size: 16px;
+    cursor: default;
+}
+.products .inner ul li a.block:hover h3{
+    color: #555;
+}
+.products .inner li dd{
+    float: left;
+    margin-left: -1px;
+    padding: 30px 0 40px 20px;
+    width: 675px;
+    border-left: 1px solid #e6e6e6;
+}
+.products .inner ul.vip li dt{
+    width: 150px;
+}
+.products .inner ul.vip li dd{
+    width: 715px;
+}
+.products .inner .row ul.vip li:not(:last-child) dl:after{
+    left: 175px;
+}
+.products .inner li dd p{
+}
+.products .inner li dd:after{
+    clear: both;
+}
+.products .inner li dd .span3{
+    float: left;
+    padding-right: 10px;
+}
+.products .inner li dd .span6{
+    float: left;
+    width: 335px;
+}
+.products .inner li dd .span9{
+    float: left;
+    padding-left: 20px;
+    border-left: 1px solid #e6e6e6;
+}
+.products .inner li dd figure{
+    margin: 0;
+    width: 100%;
+    padding: 20px 0;
+    border-bottom: 1px solid #e6e6e6;
+}
+.products .inner li dd figure figcaption{
+    position: relative;
+    padding-left: 14px;
+    font-size: 14px;
+    color: #555;
+    margin-bottom: 8px;
+    -webkit-transition: all 0.2s linear;
+    -moz-transition: all 0.2s linear;
+    -o-transition: all 0.2s linear;
+    -ms-transition: all 0.2s linear;
+    transition: all 0.2s linear;
+}
+.products .inner li dd figure:hover figcaption{
+    color: #007aff;
+    color: #555;
+}
+.products .inner li dd figure figcaption:before{
+    content: "";
+    position: absolute;
+    display: block;
+    height: 14px;
+    width: 10px;
+    left: 0;
+    background-color: #005496;
+}
+.products .inner li .fi-green figure figcaption:before{
+    background-color: #27ae61;
+}
+.products .inner li .fi-orange figure figcaption:before{
+    background-color: #f90;
+}
+.products .inner li dd figure p{
+    font-size: 13px;
+    line-height: 18px;
+}
+.products .inner li dd figure:first-child{
+    padding-top: 0;
+}
+.products .inner li dd figure:last-child{
+    padding-bottom: 0;
+    border: 0;
+}
+.products .inner li .inline{
+    padding: 27px 0 27px 20px;
+}
+.products .inner li .inline figure{
+    float: left;
+    padding: 0;
+    width: 140px;
+    border: 0;
+}
+.products .inner li .inline figure figcaption{
+    margin: 0;
+}
+.products-header h1{
+    font-size: 24px;
+    line-height: 28px;
+}
+.products-header p{
+    font-size: 16px;
+}

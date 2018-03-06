@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d26e0ea2-1980-42b8-ab3d-671d7f73fe6b" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/gw.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/css/bootstrap-theme.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/css/bootstrap-theme.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/css/bootstrap-theme.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/css/bootstrap-theme.min.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/css/bootstrap.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/css/bootstrap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/css/bootstrap.min.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/js/bootstrap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/js/bootstrap.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap/js/npm.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/animate.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/jquery.fullPage.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/menu.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/bootstrap/css/bootstrap-theme.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/bootstrap/css/bootstrap-theme.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/bootstrap/css/bootstrap-theme.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/bootstrap/css/bootstrap-theme.min.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/bootstrap/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/bootstrap/css/bootstrap.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/bootstrap/css/bootstrap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/bootstrap/css/bootstrap.min.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/bootstrap/js/bootstrap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/bootstrap/js/bootstrap.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/bootstrap/js/npm.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/css/animate.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/css/bootstrap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/css/custom.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/css/flexslider.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/css/font-awesome.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/css/font.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/css/jquery.Scrollbar.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/css/jquery.bxslider.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/css/jquery.fullPage.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/css/magic.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/css/menu.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/css/reset.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/css/slick.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/css/validationEngine.jquery.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/css/videojs.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/4.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/5.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/6.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/7.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/8.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/9.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/about_us/people.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/about_us/titlle.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/bj28.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/business/1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/business/2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/business/3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/business/4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/business/girl.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/cell_shadow.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/contact_us/domain.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/contact_us/email.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/contact_us/people.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/contact_us/qq.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/contact_us/skype.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/contact_us/title.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/contact_us/weixin.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/gotop.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/home/17.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/home/9.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/home/KGBET.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/home/ball.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/home/bottom-left.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/home/bottom.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/home/button.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/home/按钮-拷贝-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/home/按钮-拷贝-3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/home/按钮-拷贝.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/home/首页背景.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/keno_logo_1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/keno_logo_11.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/keno_logo_12.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/keno_logo_14.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/keno_logo_15.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/keno_logo_2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/keno_logo_20.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/keno_logo_21.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/keno_logo_22.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/keno_logo_23.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/keno_logo_3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/keno_logo_4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/keno_logo_5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/lang_cn.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/lang_en.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/lang_hk.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/lhc.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/logo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/logodown.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/logoup.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/mobile_about_arrow.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/mobile_about_next.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/mobile_about_prev.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/mobile_index_bg.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/mobile_product_03_shadow.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/platform_3_h.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/pls.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/process_1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/process_2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/process_3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/product/1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/product/123.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/product/ball.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/product/panel-dial.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/product_instance/17.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/product_instance/9.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/product_instance/app-screen-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/product_instance/app-screen-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/product_instance/app-screen-3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/product_instance/app-screen-4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/product_instance/app-screen-5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/product_instance/app-screen-6.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/public/business.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/public/home.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/public/product.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/public/product_instance.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/rbcn-proArrow (1).png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/rbcn-proArrow.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/rbcn_contact_left.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/rbcn_contact_right.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/rbcn_head.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/rbcn_pro_1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/rbcn_pro_2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/rbcn_pro_3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/rbcn_pro_4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/rblt_pro_2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/row_shadow.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/sfpk10.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/sfssc.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/specification_bg.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/specification_item_bg.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/image/specificationarrow.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/js/bootstrap.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/js/custom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/js/jquery-3.1.1.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/js/jquery-3.2.1.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/js/jquery.Scrollbar.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/js/jquery.bxslider.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/js/jquery.flexslider-min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/js/jquery.fullPage.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/js/jquery.fullPage.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/js/jquery.preload.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/js/jquery.validationEngine-zh_CN.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/js/jquery.validationEngine.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/js/main.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/js/slick.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/js/videojs-ie8.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/js/videojs.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/main/about.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/main/contact.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/main/develop.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/main/platform.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/main/rbcn.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/main/rblt.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/main/support.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/officalweb/css/fontello.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/officalweb/css/icon.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/officalweb/css/jquery.fancybox-thumbs.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/officalweb/css/jquery.fancybox.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/officalweb/css/media-queries.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/officalweb/css/outter-global.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/officalweb/css/products.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/officalweb/css/red.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/officalweb/css/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/officalweb/fonts/icomoon.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/officalweb/fonts/icomoon.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/officalweb/fonts/icomoon.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/officalweb/fonts/icomoon.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/officalweb/image/art/infor.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/officalweb/image/art/logo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/officalweb/image/art/parallax1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/officalweb/image/art/parallax11.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/officalweb/image/art/parallax3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/officalweb/image/art/parallax4.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/officalweb/image/art/slider-bg.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/officalweb/image/art/slider-bgk.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/officalweb/image/art/slider-browser.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/officalweb/image/art/slider-browser1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/officalweb/image/art/slider-mobile.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/officalweb/image/art/slider-tablet.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/officalweb/image/art/slider-transparent.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/officalweb/image/loading-dark.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/officalweb/image/timer.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/officalweb/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/officalweb/js/boostrapslider.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/officalweb/js/ddsmoothmenu.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/officalweb/js/jquery.easing.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/officalweb/js/jquery.easytabs.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/officalweb/js/jquery.fancybox.pack.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/officalweb/js/jquery.fitvids.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/officalweb/js/jquery.isotope.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/officalweb/js/jquery.localscroll-min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/officalweb/js/jquery.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/officalweb/js/jquery.scrollTo-min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/officalweb/js/jquery.slickforms.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/officalweb/js/jquery.themepunch.plugins.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/officalweb/js/jquery.themepunch.revolution.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/officalweb/js/jquery.touchcarousel-1.2.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/officalweb/js/scripts.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gccopy/officalweb/js/twitter.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/4.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/5.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/6.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/7.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/8.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/9.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/about_us/people.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/about_us/titlle.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/business/1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/business/2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/business/3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/business/4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/business/girl.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/contact_us/domain.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/contact_us/email.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/contact_us/people.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/contact_us/qq.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/contact_us/skype.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/contact_us/title.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/contact_us/weixin.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/home/17.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/home/9.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/home/KGBET.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/home/KGBET111.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/home/ball.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/home/bottom-left.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/home/bottom.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/home/button.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/home/按钮-拷贝-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/home/按钮-拷贝-3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/home/按钮-拷贝.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/home/首页背景.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/product/1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/product/123.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/product/ball.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/product/panel-dial.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/product_instance/17.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/product_instance/9.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/product_instance/app-screen-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/product_instance/app-screen-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/product_instance/app-screen-3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/product_instance/app-screen-4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/product_instance/app-screen-5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/product_instance/app-screen-6.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/public/business.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/public/home.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/public/product.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/public/product_instance.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/jquery-3.2.1.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/jquery.fullPage.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/jquery.fullPage.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/main.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/officalweb/css/fontello.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/officalweb/css/icon.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/officalweb/css/jquery.fancybox-thumbs.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/officalweb/css/jquery.fancybox.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/officalweb/css/media-queries.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/officalweb/css/outter-global.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/officalweb/css/products.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/officalweb/css/red.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/officalweb/css/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/officalweb/fonts/icomoon.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/officalweb/fonts/icomoon.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/officalweb/fonts/icomoon.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/officalweb/fonts/icomoon.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/officalweb/image/art/infor.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/officalweb/image/art/logo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/officalweb/image/art/parallax1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/officalweb/image/art/parallax11.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/officalweb/image/art/parallax3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/officalweb/image/art/parallax4.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/officalweb/image/art/slider-bg.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/officalweb/image/art/slider-bgk.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/officalweb/image/art/slider-browser.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/officalweb/image/art/slider-browser1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/officalweb/image/art/slider-mobile.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/officalweb/image/art/slider-tablet.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/officalweb/image/art/slider-transparent.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/officalweb/image/loading-dark.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/officalweb/image/timer.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/officalweb/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/officalweb/js/boostrapslider.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/officalweb/js/ddsmoothmenu.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/officalweb/js/jquery.easing.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/officalweb/js/jquery.easytabs.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/officalweb/js/jquery.fancybox.pack.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/officalweb/js/jquery.fitvids.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/officalweb/js/jquery.isotope.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/officalweb/js/jquery.localscroll-min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/officalweb/js/jquery.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/officalweb/js/jquery.scrollTo-min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/officalweb/js/jquery.slickforms.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/officalweb/js/jquery.themepunch.plugins.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/officalweb/js/jquery.themepunch.revolution.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/officalweb/js/jquery.touchcarousel-1.2.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/officalweb/js/scripts.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/officalweb/js/twitter.min.js" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="test.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="53" />
+    <option name="width" value="1440" />
+    <option name="height" value="823" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>XPath</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="gw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gw" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Background" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d26e0ea2-1980-42b8-ab3d-671d7f73fe6b" name="Default" comment="" />
+      <created>1520323143089</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1520323143089</updated>
+      <workItem from="1520323144225" duration="698000" />
+    </task>
+    <task id="LOCAL-00001" summary="test commit">
+      <created>1520323660159</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1520323660159</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="698000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="25" width="1440" height="823" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="test commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
